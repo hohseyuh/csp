@@ -1,0 +1,8 @@
+# ninja log v6
+8	3843	7825967420746140	CMakeFiles/CSP.dir/cspmain.cpp.obj	90441d49ab4b3a54
+69	3985	7825967421357769	CMakeFiles/CSP.dir/heuristics.cpp.obj	682052235bfac50f
+86	3994	7825967421533411	CMakeFiles/CSP.dir/csp.cpp.obj	4ac45e2231b36e43
+35	3995	7825967421014820	CMakeFiles/CSP.dir/graphParser.cpp.obj	fb98477b0946dc64
+51	4052	7825967421171859	CMakeFiles/CSP.dir/backtrack.cpp.obj	a8d3ae0cf0e926c1
+23	4110	7825967420900603	CMakeFiles/CSP.dir/ac3.cpp.obj	e8edd9dc2d2dae89
+4110	4629	7825967461768221	CSP.exe	f5d8134e5968f28f
