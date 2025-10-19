@@ -1,4 +1,4 @@
-Task2: CSP
+Task 2: CSP
 ===
 ## 1. How to Run
 In order to run application use `./csp "filename"` inside the `/csp/`directory where `csp.exe` locates.
